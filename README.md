@@ -1,5 +1,6 @@
 # azuresearchsample
-Azure saerch sample to create and populate index
+
+Azure search sample to create and populate index
 
 Reference
 
